@@ -1,0 +1,8 @@
+== Version 0.0.1 - 2010-11-06 <goesser3@gmail.com>
+* initial public release 
+
+== Version 0.0.0 - 2010-10-27 <goesser3@gmail.com>
+* attaching files via add_file 
+
+== Version 0.0.0 - 2010-06-18 <goesser3@gmail.com>
+* initial release
